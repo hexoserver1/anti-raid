@@ -1,3 +1,6 @@
+[![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Novus/anti-raid)](https://repl.it/github/Emmanuel-Novus/anti-raid)
+
+
 # Anti-Raid
 The latest version of my Anti-Raid discord bot with new features, new structures and all the latest news.
 Here are the features contained in this version :
